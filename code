@@ -25,8 +25,10 @@ ___
 > Blockquote
 
 <!-- Links -->
-[inblack67](https://inblack67.netlify.app)
 [inblack67](https://inblack67.netlify.app, 'JavaScript works')
+
+<!-- Html -->
+<a href='https://inblack67.netlify.app' target='_blank'>inblack67</a>
 
 <!-- UL -->
 * Item
