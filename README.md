@@ -72,4 +72,4 @@ function(num1: number, num2: number): number{
 <!-- Tasks List -->
 * [x] Node.JS
 * [x] React.JS
-* [] Socket.io
+* [ ] Socket.io
